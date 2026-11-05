@@ -10,7 +10,7 @@ body {
 .container {
     max-width: 50rem;
     margin-inline: auto;
-    padding-block: 4rem;
+    padding: 1rem 4rem;
 }
 
 strong {
